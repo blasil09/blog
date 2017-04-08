@@ -1,7 +1,9 @@
 header{
+
 	@extend .row;
 	margin-bottom: 1.5em;
-	background-color: #eaeaea;
+	background-position: center;
+	background-color: #CDE3F9;
 	padding: 2em 0;
 	text-align: center;
 	h1{
@@ -28,7 +30,7 @@ header{
 footer{
 	@extend .row;
 	margin-top: 1em;
-	border-top: 1px solid #ccc;
+	border-top: 1px solid #CDE3F9;
 	padding: 1em 0;
 	text-align: center;
 	color: #ccc;
